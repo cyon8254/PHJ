@@ -1,0 +1,11 @@
+include ':062acalculator'
+include ':061layout'
+include ':052petimage'
+include ':051compoundb'
+include ':042calculator'
+include ':041attributes'
+include ':03button'
+include ':02fhello'
+include ':01hello'
+include ':app'
+rootProject.name = "PHJ"
